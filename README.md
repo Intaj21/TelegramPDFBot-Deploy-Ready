@@ -2,8 +2,9 @@
 
 Deploy this bot using [Render.com](https://render.com).
 
-Steps:
+## Deployment Steps
 
-1. Clone or upload this repo
-2. Add your Telegram BOT_TOKEN in the environment
-3. Deploy with python main.py
+1. Upload these files to GitHub
+2. Go to [https://render.com](https://render.com) and create a new Web Service
+3. Set the environment variable BOT_TOKEN with your Telegram bot token
+4. Use `python main.py` as the start command
